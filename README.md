@@ -1,5 +1,3 @@
 # Hello word!
 
-i love js
-
-01/10/25
+06/10/25
