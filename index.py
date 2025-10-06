@@ -1,3 +1,3 @@
 print("Hello Python")
 
-print("123321")
+print("123")
